@@ -1,4 +1,4 @@
-#Hello World Using kivy file
+#Hello World Using kivy file.
 from kivy.app import App
 from kivy.uix.button import Label
 
@@ -6,6 +6,8 @@ from kivy.uix.button import Label
 class HelloWorld2App(App):
     def build(self):
         return Label()
+        # Find the Label in the HelloWorld2.kv file.
+        # Modify the text property to see the results. 
 
 HelloWorld2App().run()
 
