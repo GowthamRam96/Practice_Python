@@ -9,3 +9,5 @@ class WidgetsApp(App):
 		return MyWidget()
 
 WidgetsApp().run()
+#Note that the coordinate (0, 0) is located at the bottom-left corner, the Cartesian origin.
+#Attributes with properties are updated in kivy file
