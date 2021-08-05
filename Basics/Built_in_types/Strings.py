@@ -41,3 +41,4 @@ print(A.isalpha())
 #concatenate
 print(A+"ram")
 print(A.__add__('ram'))
+
