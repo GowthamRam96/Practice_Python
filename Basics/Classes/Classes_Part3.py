@@ -44,3 +44,17 @@ a.mul(3) # mul: changes instance in place
 print(a)
 
 print("------------------------------")
+
+#Results
+'''Current value = "Overridden Class method by finding the setdata in FIRST CLASS"
+Current value = "abc"
+------------------------------
+[ThirdClass: abc]
+------------------------------
+Current value = "abcxyz"
+------------------------------
+[ThirdClass: abcxyz]
+------------------------------
+[ThirdClass: abcabcabc]
+------------------------------
+'''
