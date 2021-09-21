@@ -18,7 +18,7 @@ plt.imshow(crop_background)
 plt.show()
 ```
 
-You can add the above piece of code to see the exact image expected as loaded below before adding the two images:
+You can add the above piece of code to see the exact image expected as loaded below before adding the two images in **04_GreenScreenCar.py**:
 
 ![image](https://user-images.githubusercontent.com/84629235/134110371-b709e8a2-65b1-432c-accc-94b4000d7f97.png)
 
