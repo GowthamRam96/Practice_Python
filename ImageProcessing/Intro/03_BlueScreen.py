@@ -3,7 +3,7 @@ import numpy as np
 import cv2
 
 #Read image using opencv imread
-image = cv2.imread(r"C:\Users\Gowtham\Documents\Udacity\1_1_Image_Representation\images\pizza_bluescreen.jpg")
+image = cv2.imread(r"C:\Users\Gowtham\Documents\1_1_Image_Representation\images\pizza_bluescreen.jpg")
 
 #print dimension
 print("Type of data",type(image),
