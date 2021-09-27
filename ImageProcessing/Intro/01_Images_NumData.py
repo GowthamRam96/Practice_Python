@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import cv2  # computer vision library
 
 # Read in the image
-image = plt.imread(r'C:\Users\Gowtham\Documents\Udacity\1_1_Image_Representation\images\waymo_car.jpg') #edited by G_RAM
+image = plt.imread(r'C:\Users\Gowtham\Documents\1_1_Image_Representation\images\waymo_car.jpg') #edited by G_RAM
 
 # Print out the image dimensions
 print('Image dimensions:', image.shape)
