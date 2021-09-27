@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import numpy as np
 # Read in the image
-image = plt.imread(r"C:\Users\Gowtham\Documents\Udacity\1_1_Image_Representation\images\wa_state_highway.jpg")
+image = plt.imread(r"C:\Users\Gowtham\Documents\1_1_Image_Representation\images\wa_state_highway.jpg")
 # plt.imshow(image)
 # plt.show()
 
