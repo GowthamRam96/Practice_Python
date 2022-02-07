@@ -1,3 +1,5 @@
+# Code
+```py
 import sys
 from PyQt5.QtCore import *
 from PyQt5.QtGui import *
@@ -34,3 +36,9 @@ def b2_clicked():
 
 if __name__ == '__main__':
     window()
+    
+```
+
+# Results
+![image](https://user-images.githubusercontent.com/84629235/152817060-7547c98b-5deb-490a-8a6b-d8700e00e6b4.png)
+
