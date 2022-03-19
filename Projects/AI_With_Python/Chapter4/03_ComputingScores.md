@@ -1,3 +1,5 @@
+# Code
+```py
 import argparse
 import json
 import numpy as np
@@ -78,7 +80,7 @@ if __name__=='__main__':
     user2 = args.user2
     score_type = args.score_type
 
-    ratings_file = r'C:\Users\Gowtham\PycharmProjects\pythonProject2\Chapter5\ratings.json'
+    ratings_file = r'C:\Users\Gowtham\PycharmProjects\pythonProject2\Chapter5\ratings.json' # Change the path based on your project locations
     with open(ratings_file, 'r') as f:
         data = json.loads(f.read())
 
@@ -88,3 +90,7 @@ if __name__=='__main__':
     else:
         print("\nPearson score:")
         print(pearson_score(data, user1, user2))
+```
+
+# Results
+![image](https://user-images.githubusercontent.com/84629235/159128185-ad35db75-2021-40a9-8c0d-20393146db94.png)
